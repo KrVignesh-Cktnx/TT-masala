@@ -31,7 +31,7 @@
     margin-right: 15px;     
     margin-top: 40px;
 }
-@media (max-width:400px){
+@media (max-width:500px){
     iframe{
         width: 320px;
         height: 250px;
