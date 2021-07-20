@@ -1,0 +1,45 @@
+#logo{
+    width: 50px;
+}
+.nav-item a{
+    font-size: 20px;
+    font-weight: 700;
+}
+#sambar{
+    width: 70%;
+}
+#description{
+    font-weight: 600;
+    font-size: 20px;
+}
+#para p{
+    font-size: 20px;
+}
+#submit{
+    background-color: darkorange;
+}
+#footer{
+    padding: 2% 15%;
+    text-align: center;
+}
+.footer-txt{
+    color: rgb(0, 0, 0);
+    margin-top: 15px;
+}
+.social-media{
+    width: 3%;
+    margin-right: 15px;     
+    margin-top: 40px;
+}
+@media (max-width:400px){
+    iframe{
+        width: 320px;
+        height: 250px;
+    }
+    .social-media{
+        width: 8%;
+    } 
+    .footer-txt{
+        font-size: 15px;
+    }
+}
